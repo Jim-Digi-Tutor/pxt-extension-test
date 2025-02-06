@@ -4,8 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "flexFX": "https://grandpabond.github.io/pxt-flexfx#v2.2.7"
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
