@@ -16,5 +16,6 @@ namespace jimTest {
     //% block
     export function playSomething() {
 
+        flexFX.playTune("birthday", "ting", true);
     }
 }
