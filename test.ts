@@ -12,4 +12,9 @@ namespace jimTest {
     export function testFunction(newNum:number) : number{
         return newNum * 2;
     }
+
+    //% block
+    export function playSomething() {
+
+    }
 }
